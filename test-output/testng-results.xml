@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-15T15:11:41 IST" name="Default suite" finished-at="2021-12-15T15:11:41 IST" duration-ms="80">
+  <suite started-at="2021-12-15T15:20:41 IST" name="Default suite" finished-at="2021-12-15T15:20:41 IST" duration-ms="58">
     <groups>
     </groups>
-    <test started-at="2021-12-15T15:11:41 IST" name="Default test" finished-at="2021-12-15T15:11:41 IST" duration-ms="80">
-      <class name="com.crm.SDET26.ReadDataTest">
-        <test-method signature="readDataTest()[pri:0, instance:com.crm.SDET26.ReadDataTest@4fb3ee4e]" started-at="2021-12-15T15:11:41 IST" name="readDataTest" finished-at="2021-12-15T15:11:41 IST" duration-ms="24" status="PASS">
+    <test started-at="2021-12-15T15:20:41 IST" name="Default test" finished-at="2021-12-15T15:20:41 IST" duration-ms="58">
+      <class name="com.crm.SDET26.JenkinTest">
+        <test-method signature="jenkin()[pri:0, instance:com.crm.SDET26.JenkinTest@543588e6]" started-at="2021-12-15T15:20:41 IST" name="jenkin" finished-at="2021-12-15T15:20:41 IST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- readDataTest -->
-      </class> <!-- com.crm.SDET26.ReadDataTest -->
+        </test-method> <!-- jenkin -->
+      </class> <!-- com.crm.SDET26.JenkinTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
